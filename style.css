@@ -1,42 +1,42 @@
 body {
-    background-color:rgb(253, 251, 251);
-    padding:3%;
-    margin-top:5%;
-    font-family:'M PLUS Rounded 1c', sans-serif;
+    background-color:  rgb(253, 251, 251);
+    padding:  3%;
+    margin-top:  5%;
+    font-family:  'M PLUS Rounded 1c', sans-serif;
 }
 
 header {
-    top:0;
-    position:fixed;
+    top:  0;
+    position:  fixed;
 }
 
 nav {
-    left:-8px;
+    left:  -8px;
 }
 
 #minha_foto {
     border:2px solid black;
-    width:300px;
+    width:  300px;
 }
 
 table {
     border:1px solid black;
-    color:rgb(34, 34, 34);
-    line-height:30px;
-    width:500px;
+    color:  rgb(34, 34, 34);
+    line-height:  30px;
+    width:  500px;
 }
 
 h1 {
-    font-size:40px;
+    font-size:  40px;
 }
 
 .lado-esquerdo {
-    display:inline-block;
-    width:400px;
+    display:  inline-block;
+    width:  400px;
 }
 
 .lado-direito {
-    display:inline-block;
-    width:200px;
-    float:right;
+    display:  inline-block;
+    width:  200px;
+    float:  right;
 }
