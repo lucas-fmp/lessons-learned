@@ -6,3 +6,8 @@ header {
     top: 0;
     position:fixed;
 }
+
+nav {
+    position: absolute;
+    top: 100px;
+}
