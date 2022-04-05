@@ -2,6 +2,7 @@ body {
     background-color: rgb(253, 251, 251);
     padding: 3%;
     margin-top: 5%;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 header {
@@ -10,7 +11,7 @@ header {
 }
 
 nav {
-    top: 50px;
+    top: 90x;
     left: -8px;
 }
 
@@ -21,4 +22,22 @@ nav {
 
 table {
     border: 1px solid black;
+    color: rgb(34, 34, 34);
+    line-height: 30px;
+    width: 500px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.lado-esquerdo {
+    display: inline-block;
+    width: 400px;
+}
+
+.lado-direito {
+    display: inline-block;
+    width: 200px;
+    float: right;
 }
